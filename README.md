@@ -1,5 +1,5 @@
 # wildcert
-LetsEncrypt wildcard certificate auto-renew
+LetsEncrypt wildcard certificate auto-renew(using Conoha API)
 
 - config
 >Setup your conoha api informations.
