@@ -1,0 +1,5 @@
+{
+	"user": "[tenant name]",
+	"passwd": "[api password]",
+	"tenant": "[tenant id]"
+}
